@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3250df77.css",
+    "main.js": "./static/js/main.b380817d.js",
+    "static/js/787.9f2d8fa4.chunk.js": "./static/js/787.9f2d8fa4.chunk.js",
+    "static/media/painel-verde-OR.jpg": "./static/media/painel-verde-OR.ce6f263bf5a28999e58e.jpg",
+    "static/media/painel-verde-grande-claro.png": "./static/media/painel-verde-grande-claro.0ca0416bdb3461cb7a8d.png",
+    "static/media/painel-luzes.jpg": "./static/media/painel-luzes.8b6f9b03ac7ca72e1c94.jpg",
+    "static/media/painel-lateral.jpg": "./static/media/painel-lateral.faf59767600a02a14cc7.jpg",
+    "static/media/jardim-suspenso-lateral.jpg": "./static/media/jardim-suspenso-lateral.9c648f87a6c124be4351.jpg",
+    "static/media/painel-close.jpg": "./static/media/painel-close.6704ff6a20fc65a4007f.jpg",
+    "static/media/vaso-suspenso2.jpg": "./static/media/vaso-suspenso2.ab28bdbc61512ff996ae.jpg",
+    "static/media/vaso-grande-luzes.jpg": "./static/media/vaso-grande-luzes.e9247159c729bd850121.jpg",
+    "static/media/vaso-pequeno-luzes-grid.jpg": "./static/media/vaso-pequeno-luzes-grid.a95068f05ac0bf2bbbd2.jpg",
+    "static/media/jardim-suspenso-montando.jpg": "./static/media/jardim-suspenso-montando.9476c3f85a3e1a29d7e0.jpg",
+    "static/media/jardim-suspenso-esquerdo.jpg": "./static/media/jardim-suspenso-esquerdo.bf7ef4df3aa9c7c46c9d.jpg",
+    "static/media/painel-verde-grande-escuro.jpg": "./static/media/painel-verde-grande-escuro.6258930df1853a6a1920.jpg",
+    "static/media/painel-top.jpg": "./static/media/painel-top.8420a753b09fa69fb497.jpg",
+    "static/media/painel-verde-pequeno-3.jpg": "./static/media/painel-verde-pequeno-3.d9477f7122a7cd089584.jpg",
+    "static/media/vasos-transformacao.jpg": "./static/media/vasos-transformacao.89098bb286f63fd7a619.jpg",
+    "static/media/vasos-suspenso.jpg": "./static/media/vasos-suspenso.74e850b8ae0a97367faa.jpg",
+    "static/media/painel-verde-menor.jpg": "./static/media/painel-verde-menor.6ad8c581f2d0179b35ba.jpg",
+    "static/media/jardim-andorinha.jpg": "./static/media/jardim-andorinha.e2764771b44b9380a6d2.jpg",
+    "static/media/vaso-pequeno.jpg": "./static/media/vaso-pequeno.27ab35ca27b1a18c7be2.jpg",
+    "static/media/logoB&P.png": "./static/media/logoB&P.7ade220dcfa05d9c73a4.png",
+    "index.html": "./index.html",
+    "main.3250df77.css.map": "./static/css/main.3250df77.css.map",
+    "main.b380817d.js.map": "./static/js/main.b380817d.js.map",
+    "787.9f2d8fa4.chunk.js.map": "./static/js/787.9f2d8fa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3250df77.css",
+    "static/js/main.b380817d.js"
+  ]
+}
