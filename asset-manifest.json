@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.3250df77.css",
-    "main.js": "./static/js/main.b380817d.js",
+    "main.css": "./static/css/main.c3637423.css",
+    "main.js": "./static/js/main.994d8851.js",
     "static/js/787.9f2d8fa4.chunk.js": "./static/js/787.9f2d8fa4.chunk.js",
     "static/media/painel-verde-OR.jpg": "./static/media/painel-verde-OR.ce6f263bf5a28999e58e.jpg",
     "static/media/painel-verde-grande-claro.png": "./static/media/painel-verde-grande-claro.0ca0416bdb3461cb7a8d.png",
@@ -24,12 +24,12 @@
     "static/media/vaso-pequeno.jpg": "./static/media/vaso-pequeno.27ab35ca27b1a18c7be2.jpg",
     "static/media/logoB&P.png": "./static/media/logoB&P.7ade220dcfa05d9c73a4.png",
     "index.html": "./index.html",
-    "main.3250df77.css.map": "./static/css/main.3250df77.css.map",
-    "main.b380817d.js.map": "./static/js/main.b380817d.js.map",
+    "main.c3637423.css.map": "./static/css/main.c3637423.css.map",
+    "main.994d8851.js.map": "./static/js/main.994d8851.js.map",
     "787.9f2d8fa4.chunk.js.map": "./static/js/787.9f2d8fa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3250df77.css",
-    "static/js/main.b380817d.js"
+    "static/css/main.c3637423.css",
+    "static/js/main.994d8851.js"
   ]
 }
